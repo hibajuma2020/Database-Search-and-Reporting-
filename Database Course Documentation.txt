@@ -35,3 +35,67 @@ in the graph
 
 One Sentence to Remember All Roles 
 Understand → Design → Build → Protect → Use → Analyze
+
+4. Types of Databases
+
+Relational vs Non-Relational Comparison
+
+| Feature        | Relational DB | Non-Relational DB     |
+| -------------- | ------------- | --------------------- |
+| Data Structure | Tables        | Documents / Key-Value |
+| Schema         | Fixed         | Flexible              |
+| Relationships  | Yes           | Limited or No         |
+| Scalability    | Moderate      | High                  |
+| Examples       | MySQL         | MongoDB, Cassandra    |
+
+Centralized vs. Distributed vs. Cloud Databases
+ Centralized Database
+
+Stored in one location
+
+One main server
+
+Use Case:
+
+Small company
+
+School system
+
+Disadvantage:
+
+If the server fails, the system stops
+ Distributed Database
+
+Data stored in multiple locations
+
+Connected through a network
+
+Use Case:
+
+Banks with many branches
+
+Large organizations
+
+Advantage:
+
+Better performance and reliability
+
+Cloud Database
+
+Stored on the internet
+
+Managed by cloud providers
+
+Examples:
+
+AWS
+
+Google Cloud
+
+Microsoft Azure
+
+Use Case:
+
+Online shopping websites
+
+Mobile and web applications

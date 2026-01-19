@@ -22,3 +22,16 @@ Flat File System vs Relational Database
 
 2. DBMS Advantages – Mind Map
 in the graph
+
+3. Roles in a Database System
+| Role                  | What they do                             | Key Word   |
+| --------------------- | ---------------------------------------- | ---------- |
+| System Analyst        | Understands the problem and requirements | Understand |
+| Database Designer     | Designs database structure               | Design     |
+| Database Developer    | Builds database using SQL                | Build      |
+| DBA                   | Manages and protects database            | Protect    |
+| Application Developer | Builds the application                   | Interface  |
+| BI Developer          | Analyzes data and makes reports          | Analyze    |
+
+One Sentence to Remember All Roles 
+Understand → Design → Build → Protect → Use → Analyze

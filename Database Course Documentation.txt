@@ -1,3 +1,5 @@
+1. Comparison Assignment: Flat File Systems vs. Relational Databases
+
 Flat File System (think VERY simple)
 Data stored in one file (like Excel or a text file)
 

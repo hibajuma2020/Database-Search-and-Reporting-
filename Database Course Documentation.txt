@@ -20,3 +20,5 @@ Flat File System vs Relational Database
 |   Drawbacks         | Hard to update, data repetition, errors                      | More complex, needs database software                    |
 
 
+2. DBMS Advantages – Mind Map
+in the graph

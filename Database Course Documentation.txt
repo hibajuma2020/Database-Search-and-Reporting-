@@ -1,0 +1,20 @@
+Flat File System (think VERY simple)
+Data stored in one file (like Excel or a text file)
+
+Relational Database (a bit smarter)
+Data stored in many tables, and tables are connected
+
+Flat File = Simple, one file, repeated data
+Relational DB = Many tables, connected, less repetition
+
+
+Flat File System vs Relational Database
+| Point               | Flat File System                                             | Relational Database                                      |
+| ------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+|   Structure         | Data is stored in one single file (like one Excel sheet)     | Data is stored in multiple tables connected together     |
+|   Data Redundancy   | High (same data is repeated many times)                      | Low (data is stored once and reused)                     |
+|   Relationships     | No real relationships between data                           | Tables are linked using keys (relationships exist)       |
+|   Example Usage     | Small programs, simple lists, text files                     | Banks, schools, hospitals, large systems                 |
+|   Drawbacks         | Hard to update, data repetition, errors                      | More complex, needs database software                    |
+
+
